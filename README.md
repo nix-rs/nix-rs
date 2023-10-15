@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nix-rs" alt="nix-rs" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python, Django and Networking**
+- 🌱 I’m currently learning **Typescript, React, Rust and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nix-rs/](https://github.com/nix-rs/)
 
