@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nix-rs/](https://github.com/nix-rs/)
 
-- 📫 How to reach me **aniket2contact@gmail.com**
 
 - ⚡ Fun fact **I think this world shold be decentralized.**
 
