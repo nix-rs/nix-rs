@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA, Fullstack and Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nix-rs/](https://github.com/nix-rs/)
-
 
 - ⚡ Fun fact **I think this world shold be decentralized.**
 <p align="left">
