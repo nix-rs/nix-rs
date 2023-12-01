@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA, Fullstack and Rust**
+- 🌱 I’m currently learning 
 
 
 - ⚡ Fun fact **I think this world shold be decentralized.**
