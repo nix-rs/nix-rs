@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm aniket</h1>
 
 
-
-
-- 🌱 I’m currently learning 
-
-
 - ⚡ Fun fact **I think this world shold be decentralized.**
 <p align="left">
 </p>
